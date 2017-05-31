@@ -1,0 +1,19 @@
+.game{
+		margin-top: 20px;
+		margin-left: 500px;
+	}
+	h2{
+		text-align: center;
+		font-weight: bold;
+	}
+	.image{
+		text-align: center;
+	}
+	
+	h1{
+		text-align: center;
+		font-weight: bold;
+	}
+	body{
+		background-color: skyblue;
+	}
